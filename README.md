@@ -1,2 +1,2 @@
-# jme4180-lab1
+# jme4180-vibration1
 Periodic Signals, Data Acquisition and Fourier Analysis

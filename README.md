@@ -1,2 +1,3 @@
 # jme4180-vibration1
-Periodic Signals, Data Acquisition and Fourier Analysis
+
+This lab wanted to teach us how to figure out digital data and capture the continuous signals.  The equipment for this lab was digital multimeter, function generator, SignalCalc Quattro, and SignalCalc software. We also used Matlab once we got the data from SignalCalc. Matlab was used to make the data a little bit more reader friendly, with graphs and tables. The data generated from SignalCalc from the 20 Hz sine, square, and triangle waves. The sin wave could have been a bit more accurate if we increased the sample rate. However, we made the frequencies more than double the signal frequencies, so they should be accurate enough, because it is above the Nyquist frequencies.   
